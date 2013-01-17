@@ -1,0 +1,76 @@
+<mockup version="1.0" skin="sketch" measuredW="958" measuredH="1070" mockupW="700" mockupH="946">
+  <controls>
+    <control controlID="16" controlTypeID="__group__" x="258" y="124" w="700" h="946" measuredW="700" measuredH="946" zOrder="0" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="700" h="946" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="16">
+          <controlProperties>
+            <backgroundAlpha>1</backgroundAlpha>
+            <borderColor>0</borderColor>
+            <borderStyle>none</borderStyle>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="98" y="25" w="505" h="896" measuredW="640" measuredH="1136" zOrder="1" locked="false" isInGroup="16">
+          <controlProperties>
+            <src>./IMG_1059.PNG</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="700" h="946" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="16">
+          <controlProperties>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <borderColor>0</borderColor>
+            <borderStyle>none</borderStyle>
+            <color>0</color>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="__group__" x="0" y="0" w="700" h="946" measuredW="700" measuredH="946" zOrder="3" locked="false" isInGroup="16">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="700" h="946" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="3">
+              <controlProperties>
+                <backgroundAlpha>0.75</backgroundAlpha>
+                <borderColor>0</borderColor>
+                <borderStyle>none</borderStyle>
+                <color>3355443</color>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="128" y="202" w="320" h="93" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="3">
+              <controlProperties>
+                <bold>false</bold>
+                <color>16777215</color>
+                <italic>false</italic>
+                <size>60</size>
+                <text>HELLO</text>
+                <underline>false</underline>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Paragraph" x="128" y="410" w="366" h="230" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="3">
+              <controlProperties>
+                <color>16777215</color>
+                <size>24</size>
+                <text>de%20Mobo%20is%20all%20about%20%0Ainteractions%20between%20%0Ayour%20smartphone%20%0Aand%20websites.</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Paragraph" x="131" y="716" w="459" h="57" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="3">
+              <controlProperties>
+                <color>16777215</color>
+                <size>28</size>
+                <text>Here%20is%20a%20quick%20tutorial</text>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="128" y="289" w="342" h="79" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="3">
+              <controlProperties>
+                <bold>false</bold>
+                <color>16777215</color>
+                <italic>false</italic>
+                <size>40</size>
+                <text>de%20Mobo%20%3A%29</text>
+                <underline>false</underline>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>

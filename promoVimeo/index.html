@@ -1,0 +1,265 @@
+<body style="background:#fff; width: 3000px; height: 2000px;">
+    <style>    
+    	.icon {
+			padding: 8%;
+			opacity: 0.4;
+			position: relative;
+			height: 15%;
+			left: 10%;
+			top: 15%;
+		}
+		.left {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 20%;
+			height: 100%;
+			overflow: hidden;
+		}
+		.right {
+			position: absolute;
+			right: 0;
+			width: 20%;
+			height: 100%;
+			top: 0;
+			overflow: hidden;
+		}
+		.left .icon {
+			width: 85%;
+			left: -40%;
+			top: 2%;
+		}
+		.right .icon {
+			width: 90%;
+			right: -40%;
+			top: -2%;
+		}
+		.phone {
+			position: absolute;
+			top: 27%;
+			left: 29%;
+			width: 42%;
+		}
+		.screen {
+        	position: absolute;
+			top: 10%;
+			left: 0%;
+			width: 100%;		        
+        }
+        #smallPromo {
+			position: absolute;
+			top: 100px;
+			left: 100px;
+			width: 440px;
+			height: 280px;
+			background: -webkit-linear-gradient(top,  #CBCBCB 0%, #777 100%);
+        }
+		#smallPromo .title {
+        	position: absolute;
+			bottom: -12%;
+			left: 3%;
+			width: 93%;
+			height: 100px;
+			font-family: "Open Sans", "lucida grande", "Segoe UI", arial, verdana, "lucida sans unicode", tahoma, sans-serif;
+			font-size: 30px;
+			color: #eee;
+			text-shadow: black 0.1em 0.1em 0.2em;
+			font-weight: bold;
+			text-align: center;
+        }
+		#smallPromo .logo {
+			position: absolute;
+			top: 0;
+			left: 0%;
+			width: 70%;
+			height: 100%;
+			overflow: hidden;
+		}
+		#mediumPromo {
+			position: absolute;
+			top: 100px;
+			left: 600px;
+			width: 920px;
+			height: 680px;
+			background: -webkit-linear-gradient(top,  #CBCBCB 0%, #777 100%); /* Chrome10+,Safari5.1+ */
+        }
+        #mediumPromo .logo {
+			position: absolute;
+			top: 0;
+			left: 0%;
+			width: 70%;
+			height: 86%;
+			overflow: hidden;
+		}
+		#mediumPromo .title {
+        	position: absolute;
+			bottom: 17%;
+			left: 3%;
+			width: 93%;
+			height: 100px;
+			font-family: "Open Sans", "lucida grande", "Segoe UI", arial, verdana, "lucida sans unicode", tahoma, sans-serif;
+			font-size: 70px;
+			color: #eee;
+			text-shadow: black 0.1em 0.1em 0.2em;
+			font-weight: bold;
+			text-align: center;
+        }
+		#longPromo {
+			position: absolute;
+			top: 800px;
+			left: 100px;
+			width: 1400px;
+			height: 560px;
+			background: -webkit-linear-gradient(top,  #CBCBCB 0%, #777 100%); /* Chrome10+,Safari5.1+ */
+        }
+        #longPromo .logo {
+			position: absolute;
+			top: -7%;
+			left: 30%;
+			width: 50%;
+			height: 110%;
+			overflow: hidden;
+		}
+		#longPromo .title {
+        	position: absolute;
+			top: 30%;
+			left: 10%;
+			width: 398px;
+			height: 100px;
+			font-family: "Open Sans", "lucida grande", "Segoe UI", arial, verdana, "lucida sans unicode", tahoma, sans-serif;
+			font-size: 70px;
+			color: #eee;
+			text-shadow: black 0.1em 0.1em 0.2em;
+			font-weight: bold;
+        }
+		#longPromo .left {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 13%;
+			height: 100%;
+			overflow: hidden;
+		}
+		#longPromo .right {
+			position: absolute;
+			right: 0;
+			width: 13%;
+			height: 100%;
+			top: 0;
+			overflow: hidden;
+		}
+		
+		#screenshot {
+			position: absolute;
+			top: 100px;
+			left: 1600px;
+			width: 1280px;
+			height: 800px;
+			background: -webkit-linear-gradient(top,  #CBCBCB 0%, #777 100%); /* Chrome10+,Safari5.1+ */
+        }
+        #screenshot .logo {
+			position: absolute;
+			top: 0;
+			left: 15%;
+			width: 70%;
+			height: 100%;
+			overflow: hidden;
+		}
+		#logo1 {
+			position: absolute;
+			top: 1450px;
+			left: 200px;
+			box-shadow: 0 0 100px #09b3e9;
+			width: 457px;
+			height: 483px;
+			border-radius: 91px;
+		}
+		#logo1 img {
+			margin-top: -14px;
+			margin-left: -27px;
+		}
+		#logo1 .homeButton {
+			position: absolute;
+			top: 383px;
+			left: 198px;
+			box-shadow: 0 0 83px #09b3e9;
+			width: 60px;
+			height: 60px;
+			border-radius: 90px;
+		}
+		#logo2 {
+			position: absolute;
+			top: 1450px;
+			left: 1000px;
+			box-shadow: 0 0 100px #444;
+			width: 457px;
+			height: 483px;
+			border-radius: 91px;
+		}
+		#logo2 img {
+			margin-top: -14px;
+			margin-left: -27px;
+		}
+		#logo2 .homeButton {
+			position: absolute;
+			top: 383px;
+			left: 198px;
+			box-shadow: 0 0 83px #444;
+			width: 60px;
+			height: 60px;
+			border-radius: 90px;
+		}
+		.remote {
+			width: 15%;
+			left: 75%;
+			position: relative;
+			top: 25%;
+		}
+		#longPromo .remote {
+			width: 9%;
+			left: 80%;
+			position: relative;
+			top: 32%;
+		}
+    </style>
+    <div id="smallPromo">
+    	<div class="title">Vimeo Remote</div>
+    	<div class="logo">
+	    	<img class="screen" src="LCD.png">
+			<img class="icon" src="logo_vimeo.png">
+		</div>
+		<img class="remote" src="vimeoRemote.png">
+    </div>
+	<div id="mediumPromo">
+		<div class="title">Vimeo Remote</div>
+    	<div class="logo">
+	    	<img class="screen" src="LCD.png">
+			<img class="icon" src="logo_vimeo.png">
+		</div>
+		<img class="remote" src="vimeoRemote.png">
+    </div>
+	<div id="longPromo">
+    	<div class="title">Vimeo Remote</div>
+    	<div class="logo">
+	    	<img class="screen" src="LCD.png">
+			<img class="icon" src="logo_vimeo.png">
+		</div>
+		<img class="remote" src="vimeoRemote.png">
+    </div>
+	<div id="screenshot">
+    	<div class="logo">
+	    	<img class="screen" src="LCD.png">
+			<img class="icon" src="logo_vimeo.png">
+		</div>
+    </div>
+	<div id="logo1">
+		<img src="white_ph.png">
+    	<div class="homeButton">
+		</div>
+    </div>
+	<div id="logo2">
+		<img src="white_ph.png">
+    	<div class="homeButton">
+		</div>
+    </div>
+</body>

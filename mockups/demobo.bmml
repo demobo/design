@@ -1,0 +1,22 @@
+<mockup version="1.0" skin="sketch" measuredW="928" measuredH="575" mockupW="750" mockupH="480">
+  <controls>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="728" y="235" w="-1" h="-1" measuredW="200" measuredH="200" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./presentation-200.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="393" y="95" w="320" h="480" measuredW="640" measuredH="960" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./splash.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="178" y="235" w="200" h="200" measuredW="200" measuredH="200" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./music-200.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

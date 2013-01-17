@@ -1,0 +1,259 @@
+<html>
+<head>
+	<title>Title</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>	
+<body style="background:#fff; width: 3000px; height: 2000px;">
+    <style>    
+    	.icon {
+			padding: 8%;
+			opacity: 0.2;
+			position: relative;
+			height: 22%;
+			left: 50%;
+			top: 23%;
+			-webkit-transform: skew(0deg,9deg);
+		}
+		.left {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 20%;
+			height: 100%;
+			overflow: hidden;
+		}
+		.right {
+			position: absolute;
+			right: 0;
+			width: 20%;
+			height: 100%;
+			top: 0;
+			overflow: hidden;
+		}
+		.left .icon {
+			width: 85%;
+			left: -40%;
+			top: 2%;
+		}
+		.right .icon {
+			width: 90%;
+			right: -40%;
+			top: -2%;
+		}
+		.phone {
+			position: absolute;
+			top: 37%;
+			left: 14%;
+			width: 30%;
+		}
+		.screen {
+			position: absolute;
+			top: 20%;
+			left: 48%;
+			width: 50%;      
+        }
+        #smallPromo {
+			position: absolute;
+			top: 100px;
+			left: 100px;
+			width: 440px;
+			height: 280px;
+			background: -webkit-linear-gradient(top,  #CBCBCB 0%, #777 100%);
+        }
+		#smallPromo .title {
+			position: absolute;
+			bottom: -6%;
+			left: 3%;
+			width: 58%;
+			height: 100px;
+			font-family: "Open Sans", "lucida grande", "Segoe UI", arial, verdana, "lucida sans unicode", tahoma, sans-serif;
+			font-size: 23px;
+			color: #eee;
+			text-shadow: black 0.1em 0.1em 0.2em;
+			font-weight: bold;
+			text-align: center;
+			margin: 0px 21%;
+        }
+		#smallPromo .logo {
+			position: absolute;
+			top: -7%;
+			left: 15%;
+			width: 70%;
+			height: 100%;
+			overflow: hidden;
+		}
+		#mediumPromo {
+			position: absolute;
+			top: 100px;
+			left: 600px;
+			width: 920px;
+			height: 680px;
+			background: -webkit-linear-gradient(top,  #CBCBCB 0%, #777 100%); /* Chrome10+,Safari5.1+ */
+        }
+        #mediumPromo .logo {
+			position: absolute;
+			top: 0;
+			left: 15%;
+			width: 70%;
+			height: 86%;
+			overflow: hidden;
+		}
+		#mediumPromo .title {
+        	position: absolute;
+			bottom: 17%;
+			left: 3%;
+			width: 64%;
+			height: 100px;
+			font-family: "Open Sans", "lucida grande", "Segoe UI", arial, verdana, "lucida sans unicode", tahoma, sans-serif;
+			font-size: 50px;
+			color: #eee;
+			text-shadow: black 0.1em 0.1em 0.2em;
+			font-weight: bold;
+			text-align: center;
+			margin: 0px 18%;
+        }
+		#longPromo {
+			position: absolute;
+			top: 800px;
+			left: 100px;
+			width: 1400px;
+			height: 560px;
+			background: -webkit-linear-gradient(top,  #CBCBCB 0%, #777 100%); /* Chrome10+,Safari5.1+ */
+        }
+        #longPromo .logo {
+			position: absolute;
+			top: 0%;
+			left: 44%;
+			width: 50%;
+			height: 110%;
+			overflow: hidden;
+		}
+		#longPromo .title {
+        	position: absolute;
+			top: 20%;
+			left: 10%;
+			width: 398px;
+			height: 100px;
+			font-family: "Open Sans", "lucida grande", "Segoe UI", arial, verdana, "lucida sans unicode", tahoma, sans-serif;
+			font-size: 70px;
+			color: #eee;
+			text-shadow: black 0.1em 0.1em 0.2em;
+			font-weight: bold;
+        }
+		#longPromo .productTitle {
+        	position: absolute;
+			bottom: 18%;
+			left: 10%;
+			width: 800px;
+			height: 100px;
+			font-family: "Open Sans", "lucida grande", "Segoe UI", arial, verdana, "lucida sans unicode", tahoma, sans-serif;
+			font-size: 70px;
+			color: #eee;
+			text-shadow: black 0.1em 0.1em 0.2em;
+			font-weight: bold;
+        }
+		#longPromo .left {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 13%;
+			height: 100%;
+			overflow: hidden;
+		}
+		#longPromo .right {
+			position: absolute;
+			right: 0;
+			width: 13%;
+			height: 100%;
+			top: 0;
+			overflow: hidden;
+		}
+		
+		#screenshot {
+			position: absolute;
+			top: 100px;
+			left: 1600px;
+			width: 1280px;
+			height: 800px;
+			background: -webkit-linear-gradient(top,  #CBCBCB 0%, #777 100%); /* Chrome10+,Safari5.1+ */
+        }
+        #screenshot .logo {
+			position: absolute;
+			top: 0;
+			left: 15%;
+			width: 70%;
+			height: 100%;
+			overflow: hidden;
+		}
+    </style>
+    <div id="smallPromo">
+    	<div class="title">Presentation Remote for Google Drive&trade;</div>
+    	<div class="logo">
+	    	<img class="screen" src="screen.png">
+			<img class="icon" src="google-drive.png">
+			<img class="phone" src="icon_black_512.png">
+		</div>
+		<div class="left">
+			<div class="icon"></div>
+			<div class="icon"></div>
+		</div>
+		<div class="right">
+			<div class="icon"></div>
+			<div class="icon"></div>
+			<div class="icon"></div>
+		</div>
+    </div>
+	<div id="mediumPromo">
+		<div class="title">Presentation Remote for Google Drive&trade;</div>
+    	<div class="logo">
+	    	<img class="screen" src="screen.png">
+			<img class="icon" src="google-drive.png">
+			<img class="phone" src="icon_black_512.png">
+		</div>
+		<div class="left">
+			<div class="icon"></div>
+			<img class="icon">
+			<div class="icon"></div>
+		</div>
+		<div class="right">
+			<div class="icon"></div>
+			<div class="icon"></div>
+			<div class="icon"></div>
+		</div>
+    </div>
+	<div id="longPromo">
+    	<div class="title">Presentation Remote for</div>
+		<div class="productTitle">Google Drive&trade;</div>
+    	<div class="logo">
+	    	<img class="screen" src="screen.png">
+			<img class="icon" src="google-drive.png">
+			<img class="phone" src="icon_black_512.png">
+		</div>
+		<div class="left">
+			<div class="icon"></div>
+			<div class="icon"></div>
+		</div>
+		<div class="right">
+			<div class="icon"></div>
+			<div class="icon"></div>
+			<div class="icon"></div>
+		</div>
+    </div>
+	<div id="screenshot">
+    	<div class="logo">
+	    	<img class="screen" src="screen.png">
+			<img class="icon" src="google-drive.png">
+			<img class="phone" src="icon_black_512.png">
+		</div>
+		<div class="left">
+			<div class="icon"></div>
+			<div class="icon"></div>
+		</div>
+		<div class="right">
+			<div class="icon"></div>
+			<div class="icon"></div>
+			<div class="icon"></div>
+		</div>
+    </div>
+</body>
+</html>

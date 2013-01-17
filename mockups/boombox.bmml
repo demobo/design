@@ -1,0 +1,64 @@
+<mockup version="1.0" skin="sketch" measuredW="875" measuredH="528" mockupW="644" mockupH="428">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="231" y="100" w="644" h="428" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="253" y="189" w="600" h="290" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="253" y="189" w="600" h="170" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>roundedSolid</borderStyle>
+        <color>6710886</color>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Canvas" x="255" y="331" w="595" h="73" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="275" y="295" w="-1" h="-1" measuredW="160" measuredH="160" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./speaker-160.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="671" y="295" w="-1" h="-1" measuredW="160" measuredH="160" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./speaker-160.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Image" x="325" y="211" w="-1" h="-1" measuredW="60" measuredH="60" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./speaker-60.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Image" x="721" y="211" w="-1" h="-1" measuredW="60" measuredH="60" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./speaker-60.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Image" x="453" y="276" w="200" h="200" measuredW="200" measuredH="200" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./music-200.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="470" y="222" w="166" h="38" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>3355443</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
