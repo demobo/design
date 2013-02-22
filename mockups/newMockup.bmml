@@ -1,0 +1,290 @@
+<mockup version="1.0" skin="sketch" measuredW="1605" measuredH="892" mockupW="1579" mockupH="839">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::FieldSet" x="26" y="54" w="808" h="520" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Group%20Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::iPhone" x="940" y="57" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bgPattern>allWhite</bgPattern>
+        <bgTransparent>true</bgTransparent>
+        <topBar>false</topBar>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TabBar" x="969" y="170" w="224" h="302" measuredW="194" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1-2%2C%203-4%2C%205+%2C%2010+</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::FieldSet" x="41" y="85" w="101" h="458" measuredW="200" measuredH="170" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>1-2</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::FieldSet" x="153" y="85" w="101" h="458" measuredW="200" measuredH="170" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>3-4</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::FieldSet" x="264" y="85" w="101" h="458" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>5+</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::FieldSet" x="380" y="85" w="101" h="458" measuredW="200" measuredH="170" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>10+</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::MultilineButton" x="544" y="85" w="220" h="130" measuredW="102" measuredH="81" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::MultilineButton" x="551" y="243" w="220" h="130" measuredW="102" measuredH="81" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::MultilineButton" x="551" y="404" w="220" h="130" measuredW="102" measuredH="81" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::MultilineButton" x="49" y="102" w="85" h="60" measuredW="102" measuredH="81" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::MultilineButton" x="49" y="162" w="85" h="60" measuredW="102" measuredH="81" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::MultilineButton" x="274" y="108" w="85" h="65" measuredW="102" measuredH="81" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::MultilineButton" x="388" y="118" w="85" h="65" measuredW="102" measuredH="81" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::MultilineButton" x="274" y="178" w="85" h="65" measuredW="102" measuredH="81" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::MultilineButton" x="274" y="243" w="85" h="65" measuredW="102" measuredH="81" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::MultilineButton" x="161" y="295" w="85" h="65" measuredW="102" measuredH="81" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::MultilineButton" x="388" y="251" w="85" h="65" measuredW="102" measuredH="81" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::MultilineButton" x="274" y="308" w="85" h="65" measuredW="102" measuredH="81" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::MultilineButton" x="51" y="224" w="85" h="60" measuredW="102" measuredH="81" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::MultilineButton" x="49" y="285" w="85" h="60" measuredW="102" measuredH="81" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::MultilineButton" x="161" y="110" w="85" h="60" measuredW="102" measuredH="81" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::MultilineButton" x="388" y="185" w="85" h="60" measuredW="102" measuredH="81" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::MultilineButton" x="161" y="170" w="85" h="60" measuredW="102" measuredH="81" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::MultilineButton" x="49" y="347" w="85" h="60" measuredW="102" measuredH="81" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::MultilineButton" x="161" y="232" w="85" h="60" measuredW="102" measuredH="81" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::iPhone" x="1323" y="53" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="26" locked="false" isInGroup="-1"/>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::CoverFlow" x="34" y="640" w="485" h="252" measuredW="493" measuredH="198" zOrder="27" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::TitleWindow" x="1344" y="128" w="240" h="351" measuredW="450" measuredH="400" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Wait%20List</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::TextInput" x="1376" y="162" w="167" h="-1" measuredW="50" measuredH="27" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Name</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::HSlider" x="1420" y="217" w="123" h="-1" measuredW="33" measuredH="11" zOrder="30" locked="false" isInGroup="-1"/>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="1376" y="188" w="-1" h="-1" measuredW="110" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Number%20of%20People</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::NumericStepper" x="1374" y="210" w="-1" h="-1" measuredW="42" measuredH="24" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>4</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::TextArea" x="1374" y="238" w="169" h="115" measuredW="200" measuredH="140" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Notes</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Button" x="1375" y="370" w="168" h="27" measuredW="81" measuredH="27" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Add%20Party</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Button" x="1374" y="408" w="168" h="27" measuredW="64" measuredH="27" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="__group__" x="977" y="204" w="209" h="54" measuredW="209" measuredH="54" zOrder="36" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::MultilineButton" x="0" y="0" w="209" h="54" measuredW="102" measuredH="81" zOrder="0" locked="false" isInGroup="70">
+          <controlProperties>
+            <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="144" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="70">
+          <controlProperties>
+            <icon>VolumeIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="22" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="70">
+          <controlProperties>
+            <icon>CheckMarkIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="53" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="70">
+          <controlProperties>
+            <icon>CircledXIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="176" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="70">
+          <controlProperties>
+            <icon>Info2Icon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="71" controlTypeID="__group__" x="977" y="268" w="209" h="54" measuredW="209" measuredH="54" zOrder="37" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::MultilineButton" x="0" y="0" w="209" h="54" measuredW="102" measuredH="81" zOrder="0" locked="false" isInGroup="71">
+          <controlProperties>
+            <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="144" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="71">
+          <controlProperties>
+            <icon>VolumeIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="22" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="71">
+          <controlProperties>
+            <icon>CheckMarkIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="53" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="71">
+          <controlProperties>
+            <icon>CircledXIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="176" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="71">
+          <controlProperties>
+            <icon>Info2Icon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="72" controlTypeID="__group__" x="977" y="331" w="209" h="54" measuredW="209" measuredH="54" zOrder="38" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::MultilineButton" x="0" y="0" w="209" h="54" measuredW="102" measuredH="81" zOrder="0" locked="false" isInGroup="72">
+          <controlProperties>
+            <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="144" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="72">
+          <controlProperties>
+            <icon>VolumeIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="22" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="72">
+          <controlProperties>
+            <icon>CheckMarkIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="53" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="72">
+          <controlProperties>
+            <icon>CircledXIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="176" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="72">
+          <controlProperties>
+            <icon>Info2Icon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="73" controlTypeID="__group__" x="977" y="394" w="209" h="54" measuredW="209" measuredH="54" zOrder="39" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::MultilineButton" x="0" y="0" w="209" h="54" measuredW="102" measuredH="81" zOrder="0" locked="false" isInGroup="73">
+          <controlProperties>
+            <text>%2334%0AParty%20of%205%0ATable%20is%20ready</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="144" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="73">
+          <controlProperties>
+            <icon>VolumeIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="22" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="73">
+          <controlProperties>
+            <icon>CheckMarkIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="53" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="73">
+          <controlProperties>
+            <icon>CircledXIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="176" y="15" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="4" locked="false" isInGroup="73">
+          <controlProperties>
+            <icon>Info2Icon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
