@@ -1,0 +1,122 @@
+<mockup version="1.0" skin="sketch" measuredW="1310" measuredH="583" mockupW="1244" mockupH="500">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="66" y="83" w="607" h="500" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>de%20Mobo%20Dashboard%0Ahttp%3A//www.demobo.com/dashboard</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::FieldSet" x="258" y="174" w="390" h="366" measuredW="200" measuredH="170" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Connection</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="99" y="195" w="-1" h="-1" measuredW="137" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <icon>WirelessIcon%7Cmedium</icon>
+        <labelPosition>right</labelPosition>
+        <size>20</size>
+        <text>Connection</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhoneMenu" x="287" y="205" w="332" h="-1" measuredW="215" measuredH="187" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>de%20Mobo%20Connection%2C%20ON%0AConnection%20Name%0APassword%20Protection%2C%20OFF%0APassword%0ALocal%20Wi-Fi%20only%2C%20ON%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="99" y="242" w="-1" h="-1" measuredW="152" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <icon>UsersIcon%7Cmedium</icon>
+        <labelPosition>right</labelPosition>
+        <size>20</size>
+        <text>Mobile%20Users</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TextInput" x="434" y="242" w="176" h="-1" measuredW="72" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>ABC%20Cafe</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="434" y="301" w="176" h="-1" measuredW="50" measuredH="27" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>******</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="703" y="83" w="607" h="500" measuredW="450" measuredH="400" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>de%20Mobo%20Dashboard%0Ahttp%3A//www.demobo.com/dashboard</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::FieldSet" x="895" y="174" w="390" h="366" measuredW="200" measuredH="170" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Mobile%20Users</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::IconLabel" x="736" y="195" w="-1" h="-1" measuredW="137" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>6710886</color>
+        <icon>WirelessIcon%7Cmedium</icon>
+        <labelPosition>right</labelPosition>
+        <size>20</size>
+        <text>Connection</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::IconLabel" x="736" y="242" w="-1" h="-1" measuredW="152" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>0</color>
+        <icon>UsersIcon%7Cmedium</icon>
+        <labelPosition>right</labelPosition>
+        <size>20</size>
+        <text>Mobile%20Users</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::List" x="921" y="205" w="149" h="320" measuredW="100" measuredH="126" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <hasHeader>true</hasHeader>
+        <rowHeight>39</rowHeight>
+        <selectedIndex>-1</selectedIndex>
+        <size>18</size>
+        <text>User%20Name%0AJeff%27s%20iPhone%0AFifi%27s%20iPod%0AJohn%27s%20S3</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::List" x="1064" y="205" w="101" h="320" measuredW="100" measuredH="126" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <hasHeader>true</hasHeader>
+        <rowHeight>39</rowHeight>
+        <selectedIndex>-1</selectedIndex>
+        <size>18</size>
+        <text>Admin%0AYes%0ANo%0ANo</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::List" x="1162" y="205" w="101" h="320" measuredW="100" measuredH="126" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <hasHeader>true</hasHeader>
+        <rowHeight>39</rowHeight>
+        <selectedIndex>-1</selectedIndex>
+        <size>18</size>
+        <text>Connect</text>
+        <value>0</value>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::CheckBoxGroup" x="1206" y="227" w="57" h="298" measuredW="151" measuredH="123" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>%5Bx%5D%0A%5Bx%5D%20%0A-%5B%20%5D%20disabled-</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

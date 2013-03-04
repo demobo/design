@@ -1,0 +1,54 @@
+<mockup version="1.0" skin="sketch" measuredW="647" measuredH="538" mockupW="579" mockupH="510">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="68" y="28" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="95" y="109" w="225" h="344" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="119" y="178" w="180" h="189" measuredW="516" measuredH="516" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../www.demobo.com.new/static/img/parallax-slider/demobo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="365" y="28" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties/>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="392" y="109" w="225" h="344" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::ButtonBar" x="392" y="426" w="219" h="29" measuredW="193" measuredH="29" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>connect%2Csetting%2Chelp</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::IconLabel" x="422" y="171" w="61" h="-1" measuredW="48" measuredH="66" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GridIcon%7Clarge</icon>
+        <labelPosition>bottom</labelPosition>
+        <size>11</size>
+        <text>QR%20code</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::IconLabel" x="521" y="171" w="61" h="-1" measuredW="48" measuredH="66" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>wifi%26bm%3Bwifi.bmml%26bm%3Bwifi.bmml%26bm%3Bwifi.bmml</href>
+        <icon>WirelessIcon%7Clarge</icon>
+        <labelPosition>bottom</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22453%2C143%2C514%2C209%22%20href%3D%22wifi.bmml%22%20alt%3D%22wifi%22%20id%3D%228%22/%3E</map>
+        <size>11</size>
+        <text>Wifi</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::SubTitle" x="403" y="124" w="-1" h="-1" measuredW="206" measuredH="33" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Create%20Connection</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Tree" x="442" y="261" w="140" h="165" measuredW="300" measuredH="225" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <selectedIndex>-1</selectedIndex>
+        <text>f%20Office%0Af%20Quiz%20buzzer%0Af%20ABC%20Cafe%0Af%20Starbucks%0Af%20Home%20PC%0Af%20Macbook%20Air</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
