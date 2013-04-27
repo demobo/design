@@ -1,0 +1,33 @@
+<html>
+<head>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <style>    
+    </style>
+	<script>
+		function setSpaceBarConnect() {
+			var spaceBarCounter = 0;
+			document.onkeydown = function(e) {
+				var code = (e.keyCode ? e.keyCode : e.which);
+				if (code == 13) {
+					spaceBarCounter++;
+					// 80 times is about 6 sec
+					if (spaceBarCounter%80==20) {
+						console.log(spaceBarCounter,e.timeStamp);
+					}
+				}
+			};
+			document.onkeyup = function(e) {
+				var code = (e.keyCode ? e.keyCode : e.which);
+				if (code == 13) {
+					spaceBarCounter = 0;
+				}
+			};
+		}
+		setSpaceBarConnect();
+		
+	
+	</script>
+</head>	
+<body>
+</body>
+</html>
