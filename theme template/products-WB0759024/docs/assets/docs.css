@@ -1,0 +1,130 @@
+body {
+  padding: 0 20px 50px;
+  font: 16px/24px Helvetica, Arial, sans-serif;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+h1.section-heading {
+  margin: 0 0 20px;
+  padding: 20px 0 10px;
+
+  font-size: 32px;
+  color: #333;
+
+  border-bottom: 1px solid #ddd;
+}
+
+h2.subheading {
+  margin-top: 0;
+  font-size: 24px;
+}
+
+h2.subheading + h3 {
+  margin-top: -10px;
+}
+
+h3 > code {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.items-list li + li {
+  margin-top: 10px;
+}
+
+select,
+textarea,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"] {
+  margin: 0;
+}
+
+dt {
+  margin-top: 2em;
+}
+
+li, dd {
+  margin-top: 0.5em;
+}
+
+.page-header {
+  margin: 0 -20px 0;
+  padding: 50px 0;
+
+  position: relative;
+
+  font-size: 20px;
+  line-height: 30px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 5px rgba(0, 0, 0, 0.66);
+
+  background: #020031;
+  background: -moz-linear-gradient(#2d93dc, #00477c);
+  background: -webkit-linear-gradient(#2d93dc, #00477c);
+  background: -o-linear-gradient(#2d93dc, #00477c);
+  background: -ms-linear-gradient(#2d93dc, #00477c);
+  background: linear-gradient(#2d93dc, #00477c);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2d93dc', endColorstr='#00477c',GradientType=0 );
+
+  -webkit-box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
+     -moz-box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
+          box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
+}
+
+.page-header hgroup {
+  margin-bottom: 50px;
+}
+
+.page-header h1,
+.page-header h2,
+.page-header h3 {
+  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.66);
+}
+
+.page-header h1 {
+  font-size: 72px;
+  line-height: 72px;
+
+}
+
+.page-header h2 {
+  font-size: 32px;
+  line-height: 48px;
+  font-weight: normal;
+}
+
+.page-header h3 {
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: normal;
+}
+
+.info {
+  margin: 0 -20px 30px;
+  padding: 20px 0;
+
+  font-size: 20px;
+  line-height: 1.5;
+
+  background: #eee;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}
+
+

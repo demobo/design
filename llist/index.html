@@ -1,0 +1,118 @@
+<body>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js">
+    </script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js">
+    </script>
+    <style>    
+        body {
+            background: #333;
+            margin: 200px;
+        }
+        
+        #tv {
+			background: -webkit-linear-gradient(top, #a9e4f7 0%,#0fb4e7 100%);
+			background: -webkit-linear-gradient(top, #b7deed 0%,#71ceef 50%,#21b4e2 51%,#b7deed 100%);	
+			background: -webkit-linear-gradient(top, rgba(30,87,153,0) 0%,rgba(30,87,153,0.8) 15%,rgba(30,87,153,1) 19%,rgba(30,87,153,1) 20%,rgba(41,137,216,1) 50%,rgba(30,87,153,1) 80%,rgba(30,87,153,1) 81%,rgba(30,87,153,0.8) 85%,rgba(30,87,153,0) 100%);
+        	background: -webkit-linear-gradient(top, #87e0fd 0%,#53cbf1 40%,#05abe0 100%);
+		}
+        #tv {
+			position: relative;
+			width: 200px;
+			height: 150px;
+			margin: 20px 0;
+			border-radius: 50% / 10%;
+			color: white;
+			text-align: center;
+			text-indent: .1em;
+        }
+        #tv:before {
+			content: '';
+			position: absolute;
+			top: 10%;
+			bottom: 10%;
+			right: -5%;
+			left: -5%;
+			background: inherit;
+			border-radius: 5% / 50%;
+        }
+        #logo {
+            width: 200px;
+            height: 90px;
+            top: 30px;
+            left: 0px;
+            position: absolute;
+            overflow: hidden;
+        }
+        .l {
+        	width: 30px;
+        	height: 90px;
+        	-webkit-transform: skew(-20deg);
+        	   -moz-transform: skew(-20deg);
+        	     -o-transform: skew(-20deg);
+        	background: white;
+			position:absolute;
+			box-shadow: 3px 3px 4px #aaa;
+        }
+       
+		.animator {
+			width: 2;
+			height: 30px;
+		}
+            
+    </style>
+    <div id="tv">
+    	<div id="logo">
+	        <div class="l"></div>
+			<div class="l"></div>
+			<div class="l"></div>
+			<div class="l"></div>
+			<div class="l"></div>
+			<div class="l"></div>
+		</div>
+    </div>
+	<script>
+		reset(500);
+		function reset(time){
+			$($('.l')[0]).animate({
+				top: '0',
+				left: '50'
+			},time);
+			$($('.l')[1]).animate({
+				top: '99',
+				left: '17'
+			},time);
+			$($('.l')[2]).animate({
+				top: '0',
+				left: '87'
+			},time);
+			$($('.l')[3]).animate({
+				top: '99',
+				left: '54'
+			},time);
+			$($('.l')[4]).animate({
+				top: '0',
+				left: '124'
+			},time);
+			$($('.l')[5]).animate({
+				top: '99',
+				left: '91'
+			},time);
+		}
+		function finish() {
+			$($('.l')[4]).animate({top:'-=30',left:'+=10'});
+			$($('.l')[5]).animate({top:'-=30',left:'+=10'},animate);
+		}
+		function animate(){
+			reset(0);
+			$($('.l')[0]).animate({top:'-=99',left:'+=36'});
+			$($('.l')[1]).animate({top:'-=99',left:'+=33'},function(){
+				$($('.l')[2]).animate({top:'-=99',left:'+=36'});
+				$($('.l')[3]).animate({top:'-=99',left:'+=33'}, function() {
+					$($('.l')[4]).animate({top:'-=69',left:'+=26'});
+					$($('.l')[5]).animate({top:'-=69',left:'+=23'});
+				});
+			});
+			
+		}
+    </script>
+</body>
