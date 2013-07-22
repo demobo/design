@@ -2,7 +2,7 @@
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="273" y="288" w="200" h="355" measuredW="640" measuredH="1136" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <src>./images/IMG_2837.PNG</src>
+        <src>./images/IMG_2847.PNG</src>
         <text/>
       </controlProperties>
     </control>
@@ -39,7 +39,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Arrow" x="374" y="220" w="61" h="191" measuredW="150" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Arrow" x="422" y="220" w="53" h="191" measuredW="150" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
         <color>16777215</color>
