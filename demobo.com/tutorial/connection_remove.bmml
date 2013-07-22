@@ -12,7 +12,7 @@
           <controlProperties>
             <color>16777215</color>
             <size>20</size>
-            <text>Swipe%20up%20on%20the%20screenshot%20of%20the%20connection%20you%20want%20to%20remove.%20</text>
+            <text>Swipe%20up%20on%20the%20screenshot%20of%20the%20connection%20that%20you%20want%20to%20remove.%20</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
@@ -39,7 +39,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="9" controlTypeID="com.balsamiq.mockups::Arrow" x="597" y="201" w="41" h="87" measuredW="150" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Arrow" x="597" y="216" w="41" h="72" measuredW="150" measuredH="100" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>1</backgroundAlpha>
         <color>16777215</color>

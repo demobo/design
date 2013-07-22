@@ -6,9 +6,9 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="__group__" x="408" y="155" w="221" h="105" measuredW="221" measuredH="105" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="__group__" x="400" y="156" w="221" h="104" measuredW="221" measuredH="104" zOrder="3" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Arrow" x="33" y="36" w="36" h="69" measuredW="150" measuredH="100" zOrder="0" locked="false" isInGroup="5">
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Arrow" x="58" y="29" w="26" h="75" measuredW="150" measuredH="100" zOrder="0" locked="false" isInGroup="5">
           <controlProperties>
             <backgroundAlpha>1</backgroundAlpha>
             <color>16777215</color>

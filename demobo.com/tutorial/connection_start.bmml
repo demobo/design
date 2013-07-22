@@ -12,7 +12,7 @@
           <controlProperties>
             <color>16777215</color>
             <size>20</size>
-            <text>Tap%20on%20the%20screenshot%20of%20the%20connection%20you%20want%20to%20start.%20</text>
+            <text>Tap%20on%20the%20screenshot%20of%20the%20connection%20that%20you%20want%20to%20start.%20</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>

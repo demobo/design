@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="702" measuredH="731" mockupW="444" mockupH="607">
+<mockup version="1.0" skin="sketch" measuredW="702" measuredH="740" mockupW="444" mockupH="616">
   <controls>
     <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="258" y="124" w="444" h="600" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -8,57 +8,55 @@
         <color>0</color>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="258" y="124" w="444" h="600" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="325" y="196" w="314" h="222" measuredW="450" measuredH="400" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
-        <backgroundAlpha>0.75</backgroundAlpha>
-        <borderColor>0</borderColor>
-        <borderStyle>none</borderStyle>
-        <color>0</color>
+        <text>Any%20Web%20Application%20powered%20by%20de%20Mobo%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="325" y="196" w="314" h="222" measuredW="450" measuredH="400" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Any%20Web%20Application%20powered%20by%20deMobo%0Ahttp%3A//</text>
-      </controlProperties>
-    </control>
-    <control controlID="11" controlTypeID="__group__" x="275" y="167" w="414" h="53" measuredW="414" measuredH="53" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="9" controlTypeID="__group__" x="283" y="153" w="414" h="53" measuredW="414" measuredH="53" zOrder="2" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="0" w="414" h="53" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="11">
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="0" w="414" h="53" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="9">
           <controlProperties>
             <color>16777215</color>
             <size>20</size>
-            <text>Visit%20any%20web%20application%20powered%20by%20deMobo.</text>
+            <text>Visit%20any%20web%20application%20powered%20by%20de%20Mobo.</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="352" y="418" w="327" h="46" measuredW="446" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="352" y="430" w="327" h="46" measuredW="446" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
         <text>See%20a%20full%20list%20of%20supported%20web%20applications%20on%20www.demobo.com/product.html</text>
       </controlProperties>
     </control>
-    <control controlID="13" controlTypeID="__group__" x="275" y="487" w="414" h="32" measuredW="414" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="__group__" x="275" y="505" w="414" h="32" measuredW="414" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="0" w="414" h="32" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="13">
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="0" w="414" h="32" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="11">
           <controlProperties>
             <color>16777215</color>
             <size>20</size>
-            <text>There%20are%20two%20ways%20to%20create%20connections%3A</text>
+            <text>There%20are%20two%20ways%20to%20create%20a%20connection%3A</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="15" controlTypeID="__group__" x="275" y="541" w="414" h="190" measuredW="414" measuredH="190" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="__group__" x="275" y="557" w="414" h="183" measuredW="414" measuredH="183" zOrder="5" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="0" w="414" h="190" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="15">
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="0" w="414" h="183" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="12">
           <controlProperties>
             <color>16777215</color>
             <size>16</size>
-            <text>*%20Scan%20QR%20code%20provided%20by%20the%20web%20application%20to%20create%20a%20connection.%0A%20%0A*%20Wifi%20Only%3A%20Hold%20%22enter%22%20key%20on%20your%20compurter%2C%20then%20slide%20or%20shake%20your%20phone%20to%20create%20a%20connection.</text>
+            <text>*%20Scan%20the%20QR%20code%20provided%20by%20the%20web%20application.%0A%20%0A*%20Wifi%20Only%3A%20Hold%20%22enter%22%20key%20on%20your%20computer%2C%20then%20slide%20or%20shake%20your%20phone.</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="452" y="296" w="57" h="57" measuredW="57" measuredH="57" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./images/appicon.png</src>
+        <text/>
+      </controlProperties>
     </control>
   </controls>
 </mockup>

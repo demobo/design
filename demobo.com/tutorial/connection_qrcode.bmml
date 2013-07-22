@@ -6,9 +6,9 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="5" controlTypeID="__group__" x="395" y="205" w="188" h="280" measuredW="188" measuredH="280" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="5" controlTypeID="__group__" x="393" y="205" w="200" h="280" measuredW="200" measuredH="280" zOrder="3" locked="false" isInGroup="-1">
       <groupChildrenDescriptors>
-        <control controlID="5" controlTypeID="com.balsamiq.mockups::Arrow" x="7" y="0" w="81" h="52" measuredW="150" measuredH="100" zOrder="0" locked="false" isInGroup="5">
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Arrow" x="8" y="0" w="72" h="52" measuredW="150" measuredH="100" zOrder="0" locked="false" isInGroup="5">
           <controlProperties>
             <backgroundAlpha>1</backgroundAlpha>
             <color>16777215</color>
@@ -19,11 +19,11 @@
             <text/>
           </controlProperties>
         </control>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="60" w="188" h="220" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="5">
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="60" w="200" h="220" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="5">
           <controlProperties>
             <color>16777215</color>
             <size>20</size>
-            <text>Scan%20QR%20to%20create%20a%20connection.%0A%20%0AClick%20%22Connect%22%20to%20show%20QR%20code%20on%20web%20application%20powered%20by%20deMobo.</text>
+            <text>Scan%20QR%20code%20to%20create%20a%20connection.%0A%20%0AClick%20%22Connect%22%20to%20show%20QR%20code%20on%20web%20application%20powered%20by%20de%20Mobo.</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
