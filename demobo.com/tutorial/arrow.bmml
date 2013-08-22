@@ -1,0 +1,20 @@
+<mockup version="1.0" skin="sketch" measuredW="570" measuredH="320" mockupW="217" mockupH="166">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Arrow" x="398" y="199" w="141" h="95" measuredW="150" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <color>0</color>
+        <curvature>1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <rightArrow>true</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="353" y="154" w="217" h="166" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
