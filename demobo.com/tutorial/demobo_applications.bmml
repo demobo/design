@@ -30,18 +30,18 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="308" y="159" w="-1" h="-1" measuredW="51" measuredH="33" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Label" x="306" y="159" w="-1" h="-1" measuredW="51" measuredH="33" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
         <size>24</size>
         <text>Visit</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="306" y="227" w="353" h="100" measuredW="410" measuredH="33" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Label" x="306" y="227" w="353" h="100" measuredW="525" measuredH="33" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
         <size>24</size>
-        <text>on%20your%20chrome%20browser%20to%20try%20this%20out.</text>
+        <text>in%20your%20computer%27s%20chrome%20browser%20to%20try%20this%20out.</text>
       </controlProperties>
     </control>
   </controls>
