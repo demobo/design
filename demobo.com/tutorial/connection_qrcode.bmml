@@ -44,5 +44,12 @@
         <color>0</color>
       </controlProperties>
     </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="279" y="108" w="-1" h="-1" measuredW="202" measuredH="28" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <size>20</size>
+        <text>Connection%20Method%202%3A%20</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

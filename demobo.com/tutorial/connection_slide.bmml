@@ -6,7 +6,7 @@
           <controlProperties>
             <color>16777215</color>
             <size>24</size>
-            <text>Wifi%20Only%3A%0A%20%0A*%20Hold%20%22enter%22%20key%20on%20your%20computer%20keyboard%20to%20accept%20connection.%0A%20%0A*%20Slide%20or%20shake%20phone%20to%20create%20a%20connection.</text>
+            <text>%20%0A*%20Hold%20%22enter%22%20key%20on%20your%20computer%20keyboard%20to%20accept%20connection.%0A%20%0A*%20Slide%20or%20shake%20phone%20to%20create%20a%20connection.</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
@@ -23,6 +23,13 @@
       <controlProperties>
         <src>./images/IMG_2829.PNG</src>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="279" y="108" w="-1" h="-1" measuredW="193" measuredH="28" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>15658734</color>
+        <size>20</size>
+        <text>Connection%20Method%201%3A%20%28Wifi%20Only%29</text>
       </controlProperties>
     </control>
   </controls>
