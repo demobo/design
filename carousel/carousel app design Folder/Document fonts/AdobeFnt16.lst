@@ -1,0 +1,509 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-Bold
+FamilyName:Baskerville
+StyleName:Bold
+MenuName:Baskerville
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Baskerville Bold
+WritingScript:Roman
+OutlineFileName:\Baskerville.ttc
+TTCOffset:48
+DataFormat:sfntData
+FileLength:1241036
+FileModTime:1392673597
+NameArray:0,Mac,4,Baskerville Bold
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-BoldItalic
+FamilyName:Baskerville
+StyleName:Bold Italic
+MenuName:Baskerville
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Baskerville Bold Italic
+WritingScript:Roman
+OutlineFileName:\Baskerville.ttc
+TTCOffset:300
+DataFormat:sfntData
+FileLength:1241036
+FileModTime:1392673597
+NameArray:0,Mac,4,Baskerville Bold Italic
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-Italic
+FamilyName:Baskerville
+StyleName:Italic
+MenuName:Baskerville
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Baskerville Italic
+WritingScript:Roman
+OutlineFileName:\Baskerville.ttc
+TTCOffset:552
+DataFormat:sfntData
+FileLength:1241036
+FileModTime:1392673597
+NameArray:0,Mac,4,Baskerville Italic
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville
+FamilyName:Baskerville
+StyleName:Regular
+MenuName:Baskerville
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Baskerville
+WritingScript:Roman
+OutlineFileName:\Baskerville.ttc
+TTCOffset:804
+DataFormat:sfntData
+FileLength:1241036
+FileModTime:1392673597
+NameArray:0,Mac,4,Baskerville
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-SemiBold
+FamilyName:Baskerville
+StyleName:SemiBold
+MenuName:Baskerville
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Baskerville SemiBold
+WritingScript:Roman
+OutlineFileName:\Baskerville.ttc
+TTCOffset:1056
+DataFormat:sfntData
+FileLength:1241036
+FileModTime:1392673597
+NameArray:0,Mac,4,Baskerville SemiBold
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Baskerville-SemiBoldItalic
+FamilyName:Baskerville
+StyleName:SemiBold Italic
+MenuName:Baskerville
+StyleBits:1
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Baskerville SemiBold Italic
+WritingScript:Roman
+OutlineFileName:\Baskerville.ttc
+TTCOffset:1308
+DataFormat:sfntData
+FileLength:1241036
+FileModTime:1392673597
+NameArray:0,Mac,4,Baskerville SemiBold Italic
+NameArray:0,Win,1,Baskerville
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CharcoalCY
+FamilyName:Charcoal CY
+StyleName:Regular
+MenuName:Charcoal CY
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Charcoal CY
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:\CharcoalCY.dfont
+DataFormat:sfntResource
+ResourceID:19461
+FileLength:68268
+FileModTime:1392673767
+NameArray:0,Mac,4,Charcoal CY
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:CharcoalCY
+OutlineFileName:\CharcoalCY.dfont
+ResourceID:19461
+MacStyle:0
+FileLength:68268
+FileModTime:1392673767
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:DINAlternate-Bold
+FamilyName:DIN Alternate
+StyleName:Bold
+MenuName:DIN Alternate
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:DIN Alternate Bold
+WritingScript:Roman
+OutlineFileName:\DIN Alternate Bold.ttf
+DataFormat:sfntData
+FileLength:147024
+FileModTime:1392673597
+NameArray:0,Mac,18,DIN Alternate Bold
+NameArray:0,Mac,4,DIN Alternate Bold
+NameArray:0,Win,1,DIN Alternate
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FontAwesome
+FamilyName:FontAwesome
+StyleName:Regular
+MenuName:FontAwesome
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:FontAwesome Regular
+WritingScript:Roman
+OutlineFileName:\fontawesome-webfont.ttf
+DataFormat:sfntData
+FileLength:122092
+FileModTime:1421934752
+NameArray:0,Win,1,FontAwesome
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica
+FamilyName:Helvetica
+StyleName:Regular
+MenuName:Helvetica
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Helvetica
+WritingScript:Roman
+OutlineFileName:\Helvetica.dfont
+DataFormat:sfntResource
+ResourceID:25595
+FileLength:2365506
+FileModTime:1392673602
+NameArray:0,Mac,18,Helvetica
+NameArray:0,Mac,4,Helvetica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Bold
+FamilyName:Helvetica
+StyleName:Bold
+MenuName:Helvetica
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Bold
+WritingScript:Roman
+OutlineFileName:\Helvetica.dfont
+DataFormat:sfntResource
+ResourceID:28517
+FileLength:2365506
+FileModTime:1392673602
+NameArray:0,Mac,4,Helvetica Bold
+NameArray:0,Mac,4,Helvetica lihava
+NameArray:0,Mac,4,Helvetica Gras
+NameArray:0,Mac,4,Helvetica Fett
+NameArray:0,Mac,4,Helvetica grassetto
+NameArray:0,Mac,4,Helvetica vet
+NameArray:0,Mac,4,Helvetica Fet
+NameArray:0,Mac,4,Helvetica Negrita
+NameArray:0,Mac,4,Helvetica Carregado
+NameArray:0,Mac,4,Helvetica Halvfet
+NameArray:0,Mac,18,Helvetica Bold
+NameArray:4,Mac,4,Helvetica‭ ‬أسود
+NameArray:4,Mac,4,Helvetica‭ ‬برجسته
+NameArray:5,Mac,4,Helvetica‭ ‬עבה
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Oblique
+FamilyName:Helvetica
+StyleName:Oblique
+MenuName:Helvetica
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Oblique
+WritingScript:Roman
+OutlineFileName:\Helvetica.dfont
+DataFormat:sfntResource
+ResourceID:22365
+FileLength:2365506
+FileModTime:1392673602
+NameArray:0,Mac,18,Helvetica Oblique
+NameArray:0,Mac,4,Helvetica Oblique
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-BoldOblique
+FamilyName:Helvetica
+StyleName:Bold Oblique
+MenuName:Helvetica
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Bold Oblique
+WritingScript:Roman
+OutlineFileName:\Helvetica.dfont
+DataFormat:sfntResource
+ResourceID:6413
+FileLength:2365506
+FileModTime:1392673602
+NameArray:0,Mac,18,Helvetica Bold Oblique
+NameArray:0,Mac,4,Helvetica Bold Oblique
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Light
+FamilyName:Helvetica
+StyleName:Light
+MenuName:Helvetica
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Light
+WritingScript:Roman
+OutlineFileName:\Helvetica.dfont
+DataFormat:sfntResource
+ResourceID:22375
+FileLength:2365506
+FileModTime:1392673602
+NameArray:0,Mac,18,Helvetica Light
+NameArray:0,Mac,4,Helvetica Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-LightOblique
+FamilyName:Helvetica
+StyleName:Light Oblique
+MenuName:Helvetica
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Light Oblique
+WritingScript:Roman
+OutlineFileName:\Helvetica.dfont
+DataFormat:sfntResource
+ResourceID:6513
+FileLength:2365506
+FileModTime:1392673602
+NameArray:0,Mac,18,Helvetica Light Oblique
+NameArray:0,Mac,4,Helvetica Light Oblique
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Helvetica
+OutlineFileName:\Helvetica.dfont
+ResourceID:21
+MacStyle:0
+FileLength:2365506
+FileModTime:1392673602
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Helvetica-Bold
+OutlineFileName:\Helvetica.dfont
+ResourceID:21
+MacStyle:1
+FileLength:2365506
+FileModTime:1392673602
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Helvetica-Oblique
+OutlineFileName:\Helvetica.dfont
+ResourceID:21
+MacStyle:2
+FileLength:2365506
+FileModTime:1392673602
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Helvetica-BoldOblique
+OutlineFileName:\Helvetica.dfont
+ResourceID:21
+MacStyle:3
+FileLength:2365506
+FileModTime:1392673602
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Helvetica-Light
+OutlineFileName:\Helvetica.dfont
+ResourceID:211
+MacStyle:0
+FileLength:2365506
+FileModTime:1392673602
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Helvetica-LightOblique
+OutlineFileName:\Helvetica.dfont
+ResourceID:211
+MacStyle:2
+FileLength:2365506
+FileModTime:1392673602
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Bold
+FamilyName:Lato
+StyleName:Bold
+MenuName:Lato
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Lato Bold
+WritingScript:Roman
+OutlineFileName:\Lato-Bold.ttf
+DataFormat:sfntData
+FileLength:121788
+FileModTime:1422369070
+NameArray:0,Mac,4,Lato Bold
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Lato-Regular
+FamilyName:Lato
+StyleName:Regular
+MenuName:Lato
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Lato Regular
+WritingScript:Roman
+OutlineFileName:\Lato-Regular.ttf
+DataFormat:sfntData
+FileLength:120196
+FileModTime:1422369070
+NameArray:0,Mac,4,Lato Regular
+NameArray:0,Win,1,Lato
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:MarkoOne-Regular
+FamilyName:Marko One
+StyleName:Regular
+MenuName:Marko One
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Marko One
+WritingScript:Roman
+OutlineFileName:\MarkoOne-Regular.ttf
+DataFormat:sfntData
+FileLength:34484
+FileModTime:1422362304
+NameArray:0,Mac,4,Marko One
+NameArray:0,Win,1,Marko One
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1421930127
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
