@@ -18,7 +18,7 @@ OutlineFileName:\Baskerville.ttc
 TTCOffset:48
 DataFormat:sfntData
 FileLength:1241036
-FileModTime:1392673597
+FileModTime:1423486249
 NameArray:0,Mac,4,Baskerville Bold
 NameArray:0,Win,1,Baskerville
 %EndFont
@@ -40,7 +40,7 @@ OutlineFileName:\Baskerville.ttc
 TTCOffset:300
 DataFormat:sfntData
 FileLength:1241036
-FileModTime:1392673597
+FileModTime:1423486249
 NameArray:0,Mac,4,Baskerville Bold Italic
 NameArray:0,Win,1,Baskerville
 %EndFont
@@ -62,7 +62,7 @@ OutlineFileName:\Baskerville.ttc
 TTCOffset:552
 DataFormat:sfntData
 FileLength:1241036
-FileModTime:1392673597
+FileModTime:1423486249
 NameArray:0,Mac,4,Baskerville Italic
 NameArray:0,Win,1,Baskerville
 %EndFont
@@ -84,7 +84,7 @@ OutlineFileName:\Baskerville.ttc
 TTCOffset:804
 DataFormat:sfntData
 FileLength:1241036
-FileModTime:1392673597
+FileModTime:1423486249
 NameArray:0,Mac,4,Baskerville
 NameArray:0,Win,1,Baskerville
 %EndFont
@@ -106,7 +106,7 @@ OutlineFileName:\Baskerville.ttc
 TTCOffset:1056
 DataFormat:sfntData
 FileLength:1241036
-FileModTime:1392673597
+FileModTime:1423486249
 NameArray:0,Mac,4,Baskerville SemiBold
 NameArray:0,Win,1,Baskerville
 %EndFont
@@ -128,7 +128,7 @@ OutlineFileName:\Baskerville.ttc
 TTCOffset:1308
 DataFormat:sfntData
 FileLength:1241036
-FileModTime:1392673597
+FileModTime:1423486249
 NameArray:0,Mac,4,Baskerville SemiBold Italic
 NameArray:0,Win,1,Baskerville
 %EndFont
@@ -153,7 +153,7 @@ OutlineFileName:\CharcoalCY.dfont
 DataFormat:sfntResource
 ResourceID:19461
 FileLength:68268
-FileModTime:1392673767
+FileModTime:1423486249
 NameArray:0,Mac,4,Charcoal CY
 %EndFont
 
@@ -165,7 +165,28 @@ OutlineFileName:\CharcoalCY.dfont
 ResourceID:19461
 MacStyle:0
 FileLength:68268
-FileModTime:1392673767
+FileModTime:1423486249
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Confidel
+FamilyName:Confidel
+StyleName:Regular
+MenuName:Confidel
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Confidel
+WritingScript:Roman
+OutlineFileName:\Confidel.otf
+DataFormat:sfntData
+FileLength:13012
+FileModTime:1423486249
+NameArray:0,Mac,4,Confidel
+NameArray:0,Win,1,Confidel
 %EndFont
 
 %BeginFont
@@ -184,7 +205,7 @@ WritingScript:Roman
 OutlineFileName:\DIN Alternate Bold.ttf
 DataFormat:sfntData
 FileLength:147024
-FileModTime:1392673597
+FileModTime:1423486249
 NameArray:0,Mac,18,DIN Alternate Bold
 NameArray:0,Mac,4,DIN Alternate Bold
 NameArray:0,Win,1,DIN Alternate
@@ -207,7 +228,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:25595
 FileLength:2365506
-FileModTime:1392673602
+FileModTime:1423486249
 NameArray:0,Mac,18,Helvetica
 NameArray:0,Mac,4,Helvetica
 %EndFont
@@ -229,7 +250,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:28517
 FileLength:2365506
-FileModTime:1392673602
+FileModTime:1423486249
 NameArray:0,Mac,4,Helvetica Bold
 NameArray:0,Mac,4,Helvetica lihava
 NameArray:0,Mac,4,Helvetica Gras
@@ -263,7 +284,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:22365
 FileLength:2365506
-FileModTime:1392673602
+FileModTime:1423486249
 NameArray:0,Mac,18,Helvetica Oblique
 NameArray:0,Mac,4,Helvetica Oblique
 %EndFont
@@ -285,7 +306,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:6413
 FileLength:2365506
-FileModTime:1392673602
+FileModTime:1423486249
 NameArray:0,Mac,18,Helvetica Bold Oblique
 NameArray:0,Mac,4,Helvetica Bold Oblique
 %EndFont
@@ -307,7 +328,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:22375
 FileLength:2365506
-FileModTime:1392673602
+FileModTime:1423486249
 NameArray:0,Mac,18,Helvetica Light
 NameArray:0,Mac,4,Helvetica Light
 %EndFont
@@ -329,7 +350,7 @@ OutlineFileName:\Helvetica.dfont
 DataFormat:sfntResource
 ResourceID:6513
 FileLength:2365506
-FileModTime:1392673602
+FileModTime:1423486249
 NameArray:0,Mac,18,Helvetica Light Oblique
 NameArray:0,Mac,4,Helvetica Light Oblique
 %EndFont
@@ -342,7 +363,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:21
 MacStyle:0
 FileLength:2365506
-FileModTime:1392673602
+FileModTime:1423486249
 %EndFont
 
 %BeginFont
@@ -353,7 +374,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:21
 MacStyle:1
 FileLength:2365506
-FileModTime:1392673602
+FileModTime:1423486249
 %EndFont
 
 %BeginFont
@@ -364,7 +385,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:21
 MacStyle:2
 FileLength:2365506
-FileModTime:1392673602
+FileModTime:1423486249
 %EndFont
 
 %BeginFont
@@ -375,7 +396,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:21
 MacStyle:3
 FileLength:2365506
-FileModTime:1392673602
+FileModTime:1423486249
 %EndFont
 
 %BeginFont
@@ -386,7 +407,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:211
 MacStyle:0
 FileLength:2365506
-FileModTime:1392673602
+FileModTime:1423486249
 %EndFont
 
 %BeginFont
@@ -397,7 +418,7 @@ OutlineFileName:\Helvetica.dfont
 ResourceID:211
 MacStyle:2
 FileLength:2365506
-FileModTime:1392673602
+FileModTime:1423486249
 %EndFont
 
 %BeginFont
@@ -416,7 +437,7 @@ WritingScript:Roman
 OutlineFileName:\Lato-Bold.ttf
 DataFormat:sfntData
 FileLength:121788
-FileModTime:1422369070
+FileModTime:1423486249
 NameArray:0,Mac,4,Lato Bold
 NameArray:0,Win,1,Lato
 %EndFont
@@ -437,7 +458,7 @@ WritingScript:Roman
 OutlineFileName:\Lato-Regular.ttf
 DataFormat:sfntData
 FileLength:120196
-FileModTime:1422369070
+FileModTime:1423486249
 NameArray:0,Mac,4,Lato Regular
 NameArray:0,Win,1,Lato
 %EndFont
@@ -458,9 +479,31 @@ WritingScript:Roman
 OutlineFileName:\MarkoOne-Regular.ttf
 DataFormat:sfntData
 FileLength:34484
-FileModTime:1422362304
+FileModTime:1423486249
 NameArray:0,Mac,4,Marko One
 NameArray:0,Win,1,Marko One
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Michroma
+FamilyName:Michroma
+StyleName:Regular
+MenuName:Michroma
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Michroma
+WritingScript:Roman
+OutlineFileName:\Michroma.ttf
+DataFormat:sfntData
+FileLength:64940
+FileModTime:1423486249
+NameArray:0,Mac,18,Michroma
+NameArray:0,Mac,4,Michroma
+NameArray:0,Win,1,Michroma
 %EndFont
 
 %BeginFont
@@ -481,9 +524,600 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:218640
-FileModTime:1421930127
+FileModTime:1423486249
 DesignSize:110
 NameArray:0,Mac,4,Minion Pro
 NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Traffolight
+FamilyName:Traffolight
+StyleName:Regular
+MenuName:Traffolight
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Traffolight
+WritingScript:Roman
+OutlineFileName:\Traffolight.otf
+DataFormat:sfntData
+FileLength:14576
+FileModTime:1423486249
+NameArray:0,Mac,4,Traffolight
+NameArray:0,Win,1,Traffolight
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:spinweradBold
+FamilyName:spinwerad
+StyleName:Bold
+MenuName:spinwerad
+StyleBits:2
+WeightClass:700
+WidthClass:7
+AngleClass:0
+FullName:spinwerad Bold
+WritingScript:Roman
+OutlineFileName:\spinwerad\spinwerad.ttf
+DataFormat:sfntData
+FileLength:695184
+FileModTime:1423486249
+NameArray:0,Mac,4,spinwerad Bold
+NameArray:0,Win,1,spinwerad
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:spinweradCBold
+FamilyName:spinweradC
+StyleName:Bold
+MenuName:spinweradC
+StyleBits:2
+WeightClass:700
+WidthClass:7
+AngleClass:0
+FullName:spinweradC Bold
+WritingScript:Roman
+OutlineFileName:\spinwerad\spinweradC.ttf
+DataFormat:sfntData
+FileLength:522456
+FileModTime:1423486249
+NameArray:0,Mac,4,spinweradC Bold
+NameArray:0,Win,1,spinweradC
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Black
+FamilyName:Raleway
+StyleName:Black
+MenuName:Raleway
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Raleway Black
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-Black.ttf
+DataFormat:sfntData
+FileLength:177664
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway Black
+NameArray:0,Mac,4,Raleway Black
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-BlackItalic
+FamilyName:Raleway
+StyleName:Black Italic
+MenuName:Raleway
+StyleBits:1
+WeightClass:900
+WidthClass:5
+AngleClass:1
+FullName:Raleway Black Italic
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-BlackItalic.ttf
+DataFormat:sfntData
+FileLength:145676
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway Black Italic
+NameArray:0,Mac,4,Raleway Black Italic
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Bold
+FamilyName:Raleway
+StyleName:Bold
+MenuName:Raleway
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Raleway Bold
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-Bold.ttf
+DataFormat:sfntData
+FileLength:176280
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway Bold
+NameArray:0,Mac,4,Raleway Bold
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-BoldItalic
+FamilyName:Raleway
+StyleName:Bold Italic
+MenuName:Raleway
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Raleway Bold Italic
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-BoldItalic.ttf
+DataFormat:sfntData
+FileLength:146180
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway Bold Italic
+NameArray:0,Mac,4,Raleway Bold Italic
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-ExtraBold
+FamilyName:Raleway
+StyleName:ExtraBold
+MenuName:Raleway
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Raleway ExtraBold
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-ExtraBold.ttf
+DataFormat:sfntData
+FileLength:174492
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway ExtraBold
+NameArray:0,Mac,4,Raleway ExtraBold
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-ExtraBoldItalic
+FamilyName:Raleway
+StyleName:ExtraBold Italic
+MenuName:Raleway
+StyleBits:1
+WeightClass:800
+WidthClass:5
+AngleClass:1
+FullName:Raleway ExtraBold Italic
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-ExtraBoldItalic.ttf
+DataFormat:sfntData
+FileLength:145532
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway ExtraBold Italic
+NameArray:0,Mac,4,Raleway ExtraBold Italic
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-ExtraLight
+FamilyName:Raleway
+StyleName:ExtraLight
+MenuName:Raleway
+StyleBits:0
+WeightClass:200
+WidthClass:5
+AngleClass:0
+FullName:Raleway ExtraLight
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-ExtraLight.ttf
+DataFormat:sfntData
+FileLength:174176
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway ExtraLight
+NameArray:0,Mac,4,Raleway ExtraLight
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-ExtraLightItalic
+FamilyName:Raleway
+StyleName:ExtraLight Italic
+MenuName:Raleway
+StyleBits:1
+WeightClass:250
+WidthClass:5
+AngleClass:1
+FullName:Raleway ExtraLight Italic
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-ExtraLightItalic.ttf
+DataFormat:sfntData
+FileLength:141688
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway ExtraLight Italic
+NameArray:0,Mac,4,Raleway ExtraLight Italic
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Italic
+FamilyName:Raleway
+StyleName:Italic
+MenuName:Raleway
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Raleway Italic
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-Italic.ttf
+DataFormat:sfntData
+FileLength:144500
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway Italic
+NameArray:0,Mac,4,Raleway Italic
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Light
+FamilyName:Raleway
+StyleName:Light
+MenuName:Raleway
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Raleway Light
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-Light.ttf
+DataFormat:sfntData
+FileLength:180680
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway Light
+NameArray:0,Mac,4,Raleway Light
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-LightItalic
+FamilyName:Raleway
+StyleName:Light Italic
+MenuName:Raleway
+StyleBits:1
+WeightClass:300
+WidthClass:5
+AngleClass:1
+FullName:Raleway Light Italic
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-LightItalic.ttf
+DataFormat:sfntData
+FileLength:146512
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway Light Italic
+NameArray:0,Mac,4,Raleway Light Italic
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Medium
+FamilyName:Raleway
+StyleName:Medium
+MenuName:Raleway
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Raleway Medium
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-Medium.ttf
+DataFormat:sfntData
+FileLength:178116
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway Medium
+NameArray:0,Mac,4,Raleway Medium
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-MediumItalic
+FamilyName:Raleway
+StyleName:Medium Italic
+MenuName:Raleway
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Raleway Medium Italic
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-MediumItalic.ttf
+DataFormat:sfntData
+FileLength:146304
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway Medium Italic
+NameArray:0,Mac,4,Raleway Medium Italic
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Regular
+FamilyName:Raleway
+StyleName:Regular
+MenuName:Raleway
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Raleway Regular
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-Regular.ttf
+DataFormat:sfntData
+FileLength:176188
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway Regular
+NameArray:0,Mac,4,Raleway Regular
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-SemiBold
+FamilyName:Raleway
+StyleName:SemiBold
+MenuName:Raleway
+StyleBits:0
+WeightClass:600
+WidthClass:5
+AngleClass:0
+FullName:Raleway SemiBold
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-SemiBold.ttf
+DataFormat:sfntData
+FileLength:177968
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway SemiBold
+NameArray:0,Mac,4,Raleway SemiBold
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-SemiBoldItalic
+FamilyName:Raleway
+StyleName:SemiBold Italic
+MenuName:Raleway
+StyleBits:1
+WeightClass:600
+WidthClass:5
+AngleClass:1
+FullName:Raleway SemiBold Italic
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-SemiBoldItalic.ttf
+DataFormat:sfntData
+FileLength:145556
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway SemiBold Italic
+NameArray:0,Mac,4,Raleway SemiBold Italic
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Thin
+FamilyName:Raleway
+StyleName:Thin
+MenuName:Raleway
+StyleBits:0
+WeightClass:100
+WidthClass:5
+AngleClass:0
+FullName:Raleway Thin
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-Thin.ttf
+DataFormat:sfntData
+FileLength:175316
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway Thin
+NameArray:0,Mac,4,Raleway Thin
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-ThinItalic
+FamilyName:Raleway
+StyleName:Thin Italic
+MenuName:Raleway
+StyleBits:1
+WeightClass:250
+WidthClass:5
+AngleClass:1
+FullName:Raleway Thin Italic
+WritingScript:Roman
+OutlineFileName:\Raleway\Raleway-ThinItalic.ttf
+DataFormat:sfntData
+FileLength:141964
+FileModTime:1423486249
+NameArray:0,Mac,18,Raleway Thin Italic
+NameArray:0,Mac,4,Raleway Thin Italic
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cinzel-Black
+FamilyName:Cinzel
+StyleName:Black
+MenuName:Cinzel Black
+StyleBits:2
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Cinzel-Black
+WritingScript:Roman
+OutlineFileName:\cinzel\cinzel.black.ttf
+DataFormat:sfntData
+FileLength:58616
+FileModTime:1423486249
+NameArray:0,Mac,4,Cinzel-Black
+NameArray:0,Win,1,Cinzel Black
+NameArray:0,Win,16,Cinzel
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cinzel-Bold
+FamilyName:Cinzel
+StyleName:Bold
+MenuName:Cinzel
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Cinzel-Bold
+WritingScript:Roman
+OutlineFileName:\cinzel\cinzel.bold.ttf
+DataFormat:sfntData
+FileLength:57740
+FileModTime:1423486249
+NameArray:0,Mac,4,Cinzel-Bold
+NameArray:0,Win,1,Cinzel
+NameArray:0,Win,16,Cinzel
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CinzelDecorative-Black
+FamilyName:Cinzel Decorative
+StyleName:Black
+MenuName:Cinzel Decorative Black
+StyleBits:2
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Cinzel Decorative Black
+WritingScript:Roman
+OutlineFileName:\cinzel\cinzel.decorative-black.ttf
+DataFormat:sfntData
+FileLength:62824
+FileModTime:1423486249
+NameArray:0,Mac,4,Cinzel Decorative Black
+NameArray:0,Win,1,Cinzel Decorative Black
+NameArray:0,Win,16,Cinzel Decorative
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CinzelDecorative-Bold
+FamilyName:Cinzel Decorative
+StyleName:Bold
+MenuName:Cinzel Decorative
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Cinzel Decorative Bold
+WritingScript:Roman
+OutlineFileName:\cinzel\cinzel.decorative-bold.ttf
+DataFormat:sfntData
+FileLength:62448
+FileModTime:1423486249
+NameArray:0,Mac,4,Cinzel Decorative Bold
+NameArray:0,Win,1,Cinzel Decorative
+NameArray:0,Win,16,Cinzel Decorative
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CinzelDecorative-Regular
+FamilyName:Cinzel Decorative
+StyleName:Regular
+MenuName:Cinzel Decorative
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:CinzelDecorative-Regular
+WritingScript:Roman
+OutlineFileName:\cinzel\cinzel.decorative-regular.ttf
+DataFormat:sfntData
+FileLength:60540
+FileModTime:1423486249
+NameArray:0,Mac,18,Cinzel Decorative Regular
+NameArray:0,Mac,4,CinzelDecorative-Regular
+NameArray:0,Win,1,Cinzel Decorative
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cinzel-Regular
+FamilyName:Cinzel
+StyleName:Regular
+MenuName:Cinzel
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Cinzel-Regular
+WritingScript:Roman
+OutlineFileName:\cinzel\cinzel.regular.ttf
+DataFormat:sfntData
+FileLength:56228
+FileModTime:1423486249
+NameArray:0,Mac,18,Cinzel Regular
+NameArray:0,Mac,4,Cinzel-Regular
+NameArray:0,Win,1,Cinzel
 %EndFont
 
