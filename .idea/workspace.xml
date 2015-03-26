@@ -218,7 +218,11 @@
       <created>1427326935111</created>
       <updated>1427326935111</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="viewfinders&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;# Your branch is ahead of 'origin/master' by 1 commit.&#10;#   (use &quot;git push&quot; to publish your local commits)&#10;#&#10;# Changes to be committed:&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear.pdf&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear2.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear3.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear4.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear5.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear6.jpg&#10;#&#9;new file:   carousel/gallery/IMG_0270.JPG&#10;#&#9;new file:   carousel/gallery/IMG_1752.JPG&#10;#&#9;new file:   carousel/gallery/IMG_1757.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2150.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2170.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2176.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2209.JPG&#10;#&#9;new file:   carousel/gallery/IMG_4639.jpg&#10;#&#9;new file:   carousel/gallery/IMG_5670.JPG&#10;#&#10;">
+      <created>1427331140422</created>
+      <updated>1427331140422</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
