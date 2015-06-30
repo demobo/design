@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db7d0d4b-a6e6-4a39-94b0-037cdd59a71f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/carousel/Website/Viewfinder/carousel_cracks.jpg" afterPath="$PROJECT_DIR$/carousel/Website/Viewfinder/carousel_cracks.jpg" />
+    <list default="true" id="685033e9-1141-461e-8cc1-79bbcb4f13f0" name="Default" comment="added splash images&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/presentation/done/Free-Hotels.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/android/drawable/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/android/drawable-hdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/android/drawable-ldpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/android/drawable-mdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/android/drawable-xhdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/icon1024.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/icon1024.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/screenshots/iphone/iphone4/iphone4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/screenshots/iphone/iphone4/iphone42.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/screenshots/iphone/iphone4/iphone43.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/screenshots/iphone/iphone4/iphone44.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/screenshots/iphone/iphone4/iphone45.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/screenshots/iphone/iphone4/iphone46.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/screenshots/iphone/iphone4/iphone47.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/screenshots/iphone/iphone4/iphone48.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/carousel logo version 5/res/screen/android/drawable-port-hdpi/screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/carousel logo version 5/res/screen/android/drawable-port-ldpi/screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/carousel logo version 5/res/screen/android/drawable-port-mdpi/screen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/carousel/carousel logo version 5/res/screen/android/drawable-port-xhdpi/screen.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="design.iws" />
@@ -35,11 +54,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demobo.com/index.html" />
+        <option value="$PROJECT_DIR$/carousel/res/icons/convert.sh" />
+        <option value="$PROJECT_DIR$/carousel/carousel logo version 5/res/screen/convert.sh" />
+        <option value="$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/convert.sh" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
     <option name="y" value="23" />
-    <option name="width" value="1234" />
-    <option name="height" value="760" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -85,77 +113,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="carousel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="carousel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="carousel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Website" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Viewfinder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/carousel/carousel logo version 5/res/screen" />
+      <recent name="$PROJECT_DIR$/carousel/carousel logo version 3/logo layers" />
+      <recent name="$PROJECT_DIR$/carousel/res" />
+      <recent name="$PROJECT_DIR$/carousel/different size" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/carousel/carousel logo version 3" />
+      <recent name="$PROJECT_DIR$/carousel/carousel Logo version 2" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -166,15 +150,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -187,66 +179,38 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="db7d0d4b-a6e6-4a39-94b0-037cdd59a71f" name="Default" comment="" />
-      <created>1427321384965</created>
-      <updated>1427321384965</updated>
+      <changelist id="685033e9-1141-461e-8cc1-79bbcb4f13f0" name="Default" comment="" />
+      <created>1421714820247</created>
+      <updated>1421714820247</updated>
     </task>
-    <task id="LOCAL-00001" summary="carousel_viewfinder">
-      <created>1427321562876</created>
-      <updated>1427321562876</updated>
+    <task id="LOCAL-00001" summary="added splash images">
+      <created>1422323027074</created>
+      <updated>1422323027074</updated>
     </task>
-    <task id="LOCAL-00002" summary="viewfinders&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;# Your branch is ahead of 'origin/master' by 1 commit.&#10;#   (use &quot;git push&quot; to publish your local commits)&#10;#&#10;# Changes to be committed:&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear.pdf&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear2.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear3.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear4.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear5.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear6.jpg&#10;#&#9;new file:   carousel/gallery/IMG_0270.JPG&#10;#&#9;new file:   carousel/gallery/IMG_1752.JPG&#10;#&#9;new file:   carousel/gallery/IMG_1757.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2150.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2170.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2176.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2209.JPG&#10;#&#9;new file:   carousel/gallery/IMG_4639.jpg&#10;#&#9;new file:   carousel/gallery/IMG_5670.JPG&#10;#&#10;">
-      <created>1427326935111</created>
-      <updated>1427326935111</updated>
+    <task id="LOCAL-00002" summary="added splash images&#10;">
+      <created>1423516660660</created>
+      <updated>1423516660660</updated>
     </task>
-    <task id="LOCAL-00003" summary="viewfinders&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;# Your branch is ahead of 'origin/master' by 1 commit.&#10;#   (use &quot;git push&quot; to publish your local commits)&#10;#&#10;# Changes to be committed:&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear.pdf&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear2.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear3.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear4.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear5.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear6.jpg&#10;#&#9;new file:   carousel/gallery/IMG_0270.JPG&#10;#&#9;new file:   carousel/gallery/IMG_1752.JPG&#10;#&#9;new file:   carousel/gallery/IMG_1757.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2150.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2170.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2176.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2209.JPG&#10;#&#9;new file:   carousel/gallery/IMG_4639.jpg&#10;#&#9;new file:   carousel/gallery/IMG_5670.JPG&#10;#&#10;">
-      <created>1427331140422</created>
-      <updated>1427331140422</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1234" height="760" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866043" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23000824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32780612" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26004228" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32780612" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -261,15 +225,268 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <MESSAGE value="carousel_viewfinder" />
-    <MESSAGE value="viewfinders&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;# Your branch is ahead of 'origin/master' by 1 commit.&#10;#   (use &quot;git push&quot; to publish your local commits)&#10;#&#10;# Changes to be committed:&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear.pdf&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear2.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear3.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear4.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear5.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear6.jpg&#10;#&#9;new file:   carousel/gallery/IMG_0270.JPG&#10;#&#9;new file:   carousel/gallery/IMG_1752.JPG&#10;#&#9;new file:   carousel/gallery/IMG_1757.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2150.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2170.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2176.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2209.JPG&#10;#&#9;new file:   carousel/gallery/IMG_4639.jpg&#10;#&#9;new file:   carousel/gallery/IMG_5670.JPG&#10;#&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="viewfinders&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;# Your branch is ahead of 'origin/master' by 1 commit.&#10;#   (use &quot;git push&quot; to publish your local commits)&#10;#&#10;# Changes to be committed:&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear.pdf&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear2.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear3.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear4.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear5.jpg&#10;#&#9;new file:   carousel/Website/website_mockup with marks clear6.jpg&#10;#&#9;new file:   carousel/gallery/IMG_0270.JPG&#10;#&#9;new file:   carousel/gallery/IMG_1752.JPG&#10;#&#9;new file:   carousel/gallery/IMG_1757.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2150.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2170.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2176.JPG&#10;#&#9;new file:   carousel/gallery/IMG_2209.JPG&#10;#&#9;new file:   carousel/gallery/IMG_4639.jpg&#10;#&#9;new file:   carousel/gallery/IMG_5670.JPG&#10;#&#10;" />
+    <MESSAGE value="added splash images" />
+    <MESSAGE value="added splash images&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="added splash images&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/carousel/Website/theme_filter/theme export/carousel_vuewfinder_5.jpg">
+    <entry file="file://$PROJECT_DIR$/carousel/Carousel Logo Version 1-01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demobo.com/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="9" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demobo.com/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="9" selection-start="292" selection-end="292" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/Carousel Logo Version 1-01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel Logo version 2/logo_fg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel Logo version 2/logo_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel Logo version 2/light.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel Logo version 2/dark.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/presentation/done/Sproud_Blackjack_Cartoon.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/presentation/done/sproud_blackjack_realistic.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/presentation/done/sprout_slot.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 3/logo layers/logo_fg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 3/res/icons/ios/icon-76-2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 3/res/icons/android/icon-96-xhdpi.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 3/res/icons/convert.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="53" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 3/logo layers/logo_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 3/res/icons/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 4/logo layers/logo_bg.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 4/res/icons/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 4/res/icons/ios/icon-29-2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/icon-01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 5/res/screen/ios/Default@2x~iphone.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/favicon-01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/favicon-02.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/gallery/_DSC0182.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/gallery/_DSC0149.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/favicon-03.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/Website/instant_camera.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/convert.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="1" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/typestyle_samples/typestyle_samples7.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/typestyle_samples/typestyle_samples6.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/typestyle_samples/typestyle_samples2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/typestyle_samples/typestyle_samples1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/typestyle_samples/typestyle_samples5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/screenshots/android/mockup/android.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/App/carousel app design Folder/Links/avatar.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/screenshots/android/iphone62.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/screenshots/iphone/iphone6plus/iphone6plus.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/screenshots/chrome/size2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/screenshots/chrome/size3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/Website/Viewfinder/carousel_cracks.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+      <provider editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/android/drawable/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/android/icon-36-ldpi.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 5/res/icons/android/icon-48-mdpi.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/carousel logo version 5/res/screen/android/drawable-port-hdpi/screen.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/screenshots/chrome/chrome3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/screenshots/chrome/chrome4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/screenshots/chrome/chrome5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/screenshots/chrome/chrome2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/screenshots/chrome/size.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/carousel/screenshots/chrome/chrome.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
